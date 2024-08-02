@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "64841955219",
+    "firebase_url": "https://chandeoapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chandeoapp",
+    "storage_bucket": "chandeoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64841955219:android:5cb0b9c1c3230500869a66",
+        "android_client_info": {
+          "package_name": "com.example.chandeoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYyUNkGT1zaGInfgyheBXw0f9w2hNN54o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
